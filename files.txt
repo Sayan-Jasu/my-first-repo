@@ -1,0 +1,8 @@
+text files
+audio files
+video files
+ppt files
+doc files
+jpg files
+png files
+
