@@ -5,4 +5,4 @@ ppt files
 doc files
 jpg files
 png files
-
+bat files
